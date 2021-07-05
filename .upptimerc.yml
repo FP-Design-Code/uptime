@@ -13,7 +13,6 @@ sites:
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
-status-website:
   baseUrl: /uptime # where "repo" is your repository name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
