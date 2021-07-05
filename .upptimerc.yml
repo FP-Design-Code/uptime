@@ -15,8 +15,6 @@ sites:
 status-website:
 status-website:
   baseUrl: /uptime # where "repo" is your repository name
-  name: Uptime
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
