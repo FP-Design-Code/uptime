@@ -185,8 +185,8 @@ status-website:
   introTitle: "Current status of **Floating-Point's** server."
   introMessage:
   theme: dark
-  themeUrl: http://status.floating-point.com/custom.css
-  logoUrl: http://status.floating-point.com/uptime/icon.svg
+  themeUrl: https://status.floating-point.com/custom.css
+  logoUrl: https://status.floating-point.com/uptime/icon.svg
   navbar:
     - title: Status
       href: /
