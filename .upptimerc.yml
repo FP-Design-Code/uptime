@@ -4,6 +4,182 @@ repo: uptime # The name of this repository
 sites:
   - name: Server
     url: https://ded.floating-point.com
+  - name: ACML
+    url: https://acml.ca
+  - name: AMHSHPE
+    url: https://homedreamrecover.ca
+  - name: AMHSKFLA
+    url: https://amhs-kfla.ca
+  - name: Angus Systems
+    url: https://angus-systems.com
+  - name: Arnon
+    url: https://arnon.ca
+  - name: Aylmer
+    url: https://aylmer.ca
+  - name: Belleville on Bikes
+    url: https://bellevilleonbikes.ca
+  - name: Bigelow Liptak
+    url: https://bigelow-liptak.ca
+  - name: Blachford
+    url: https://blachford.com
+  - name: Blachford Acoustics
+    url: https://blachfordacoustics.com
+  - name: Blachford Chemical Specialties
+    url: https://blachfordcs.com
+  - name: Blachford Metal Working
+    url: https://blachfordmetalworking.com
+  - name: BridgeWay
+    url: https://bridgewaycentre.com
+  - name: Campaign 2000
+    url: https://campaign2000.ca
+  - name: Canta Arya
+    url: https://cantaaryastrings.com
+  - name: CD Nova
+    url: https://cdnova.com
+  - name: CFWD
+    url: https://cfwd.ca
+  - name: CHEC Energy
+    url: https://checenergy.ca
+  - name: CHFHT
+    url: https://chfht.ca
+  - name: CICC
+    url: https://cicc.ca
+  - name: Contacts
+    url: https://contacts.floating-point.com
+  - name: Custom Plastics
+    url: https://customplastics.ca
+  - name: Daytech Limited
+    url: https://daytechlimited.com
+  - name: DCAFS
+    url: https://dcafs.on.ca
+  - name: Desert Stream
+    url: https://desertstream.net
+  - name: Durham CAF
+    url: https://durhamcaf.ca
+  - name: Durham CAS
+    url: https://durhamcas.ca
+  - name: EECC
+    url: https://eastelgincommunitycomplex.ca
+  - name: Elevate Plus
+    url: https://elevateplus.ca
+  - name: Face the Future
+    url: https://facethefuturefoundation.ca
+  - name: FST
+    url: https://familyservicetoronto.org
+  - name: FCS Renfrew
+    url: https://fcsrenfrew.on.ca
+  - name: Floating-Point
+    url: https://floating-point.com
+  - name: Frontenac Islands
+    url: https://frontenacislands.ca
+  - name: FSP
+    url: https://fspeel.org
+  - name: FSYR
+    url: https://fsyr.ca
+  - name: Humber Nurseries
+    url: https://gardencentre.com
+  - name: Giffin Canada
+    url: https://giffincanada.com
+  - name: Gilad Parking
+    url: https://giladparking.com
+  - name: Gillanders
+    url: https://gillanders.com
+  - name: Gloabal Med Inc
+    url: https://globalmedinc.com
+  - name: Hastings County
+    url: https://hastingscounty.com
+  - name: Hastings Highlands
+    url: https://hastingshighlands.ca
+  - name: HBPA
+    url: https://hbpa.on.ca
+  - name: LGLDHU
+    url: https://healthunit.org
+  - name: Isaiah Tubbs
+    url: https://isaiahtubbs.com
+  - name: ITL Circuits
+    url: https://itlcircuits.com
+  - name: KCHC
+    url: https://kchc.ca
+  - name: Kollage Square
+    url: https://kollagesquare.com
+  - name: Lime Rentals
+    url: https://limerentals.ca
+  - name: Links2Care
+    url: https://links2care.ca
+  - name: Living Well SEO
+    url: https://livingwellseontario.ca
+  - name: QEDC - MRC
+    url: https://manufacturingrc.ca
+  - name: Midland PUC
+    url: https://midlandpuc.on.ca
+  - name: My Better Living
+    url: https://mybetterliving.ca
+  - name: My Hospice
+    url: https://myhospice.ca
+  - name: Angus Newsroom
+    url: https://newsroom.angus-systems.com
+  - name: ONF
+    url: https://onf.org
+  - name: Ontario Campaign 2000
+    url: https://ontariocampaign2000.ca
+  - name: Orillia Power Generation
+    url: https://orilliapowergeneration.ca
+  - name: ORPC
+    url: https://orpowercorp.com
+  - name: Peak LTD
+    url: https://peakltd.ca
+  - name: Profile Cutting Tech
+    url: https://profilecuttingtech.com
+  - name: PWRDF
+    url: https://pwrdf.org
+  - name: QBDC
+    url: https://qbdc.ca
+  - name: Quinte Boat Docks
+    url: https://quinteboatdocks.com
+  - name: QEDC
+    url: https://quintedevelopment.com
+  - name: Quinte Masonry
+    url: https://quintemasonry.com
+  - name: Quinte Recycling
+    url: https://quinterecycling.org
+  - name: RECL
+    url: https://recl.ca
+  - name: RMC Club
+    url: https://rmcclub.ca
+  - name: Roger Snowball
+    url: https://rwsnowball.com
+  - name: SFP
+    url: https://scottforestproducts.com
+  - name: Semple Gooder
+    url: https://semplegooder.com
+  - name: Snowball Photography
+    url: https://snowballphotography.net
+  - name: SGBCHC
+    url: https://southgeorgianbaychc.ca
+  - name: Syntron Iris Valves
+    url: https://syntronirisvalves.com
+  - name: The Big If
+    url: https://thebigif.ca
+  - name: The Spah
+    url: https://thespah.ca
+  - name: Upper Canada Stone
+    url: https://uppercanadastone.com
+  - name: Van Huizen Homes
+    url: https://vanhuizenhomes.com
+  - name: Vanier
+    url: https://vanier.com
+  - name: Wasaga Distribution
+    url: https://wasagadist.ca
+  - name: We Jay
+    url: https://wejay.com
+  - name: Welland Hydro
+    url: https://wellandhydro.com
+  - name: Westario Power
+    url: https://westario.com
+  - name: YBIQ
+    url: https://yourbusinessinquinte.com
+  - name: youturn
+    url: https://youturn.ca
 
 status-website:
   baseUrl: /uptime
