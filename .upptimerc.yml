@@ -183,16 +183,15 @@ sites:
 
 status-website:
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: FP Uptime
   introTitle: "Current status of **Floating-Point's** server."
   introMessage:
   theme: dark
+  themeUrl: https://fp-design-code.github.io/uptime/custom.css
+  logoUrl: https://fp-design-code.github.io/uptime/icon.svg
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
     - title: Website
       href: https://floating-point.com
 # Upptime also supports notifications, assigning issues, and more
