@@ -183,8 +183,8 @@ status-website:
   name: FP Uptime
   cname: status.floating-point.com
   introTitle: "Current status of **Floating-Point's** server."
-  introMessage:
-  themeUrl: https://status.floating-point.com/custom.css
+  theme: ocean
+  themeUrl: https://status.floating-point.com/fp-dark.css
   logoUrl: https://status.floating-point.com/uptime/icon.svg
   navbar:
     - title: Status
