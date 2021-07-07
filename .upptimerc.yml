@@ -184,7 +184,6 @@ status-website:
   cname: status.floating-point.com
   introTitle: "Current status of **Floating-Point's** server."
   theme: ocean
-  themeUrl: https://status.floating-point.com/fp-dark.css
   logoUrl: https://status.floating-point.com/uptime/icon.svg
   navbar:
     - title: Status
