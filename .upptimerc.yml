@@ -7,7 +7,7 @@ sites:
   - name: ACML
     url: https://acml.ca
   - name: AMHSHPE
-    url: https://homedreamrecover.ca
+    url: https://hopedreamrecover.ca
   - name: AMHSKFLA
     url: https://amhs-kfla.ca
   - name: Angus Systems
@@ -19,7 +19,7 @@ sites:
   - name: Belleville on Bikes
     url: https://bellevilleonbikes.ca
   - name: Bigelow Liptak
-    url: https://bigelow-liptak.ca
+    url: https://bigelow-liptak.com
   - name: Blachford
     url: https://blachford.com
   - name: Blachford Acoustics
@@ -29,7 +29,7 @@ sites:
   - name: Blachford Metal Working
     url: https://blachfordmetalworking.com
   - name: BridgeWay
-    url: https://bridgewaycentre.com
+    url: https://bridgewaycentre.ca
   - name: Campaign 2000
     url: https://campaign2000.ca
   - name: Canta Arya
@@ -110,8 +110,6 @@ sites:
     url: https://livingwellseontario.ca
   - name: QEDC - MRC
     url: https://manufacturingrc.ca
-  - name: Midland PUC
-    url: https://midlandpuc.on.ca
   - name: My Better Living
     url: https://mybetterliving.ca
   - name: My Hospice
