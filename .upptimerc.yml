@@ -181,7 +181,7 @@ sites:
 
 status-website:
   name: FP Uptime
-  baseUrl: /repo
+  baseUrl: /uptime
   introTitle: "Current status of **Floating-Point's** server."
   theme: ocean
   logoUrl: https://status.floating-point.com/uptime/icon.svg
