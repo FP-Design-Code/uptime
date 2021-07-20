@@ -318,19 +318,19 @@
     "url": "https://cfwd.ca",
     "icon": "https://favicons.githubusercontent.com/cfwd.ca",
     "slug": "cfwd",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1605,
-    "timeDay": 1679,
-    "timeWeek": 1687,
-    "timeMonth": 1605,
-    "timeYear": 1605,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1611,
+    "timeDay": 1708,
+    "timeWeek": 1693,
+    "timeMonth": 1611,
+    "timeYear": 1611,
     "dailyMinutesDown": {
-      "2021-07-20": 1
+      "2021-07-20": 21
     }
   },
   {
