@@ -803,19 +803,19 @@
     "url": "https://hastingshighlands.ca",
     "icon": "https://favicons.githubusercontent.com/hastingshighlands.ca",
     "slug": "hastings-highlands",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 33,
-    "timeWeek": 70,
-    "timeMonth": 190,
-    "timeYear": 190,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 186,
+    "timeDay": 41,
+    "timeWeek": 69,
+    "timeMonth": 186,
+    "timeYear": 186,
     "dailyMinutesDown": {
-      "2021-07-26": 1
+      "2021-07-26": 24
     }
   },
   {
