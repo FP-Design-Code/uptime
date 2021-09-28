@@ -36,8 +36,6 @@ sites:
     url: https://cantaaryastrings.com
   - name: CD Nova
     url: https://cdnova.com
-  - name: CFWD
-    url: https://cfwd.ca
   - name: CHEC Energy
     url: https://checenergy.ca
   - name: CHFHT
@@ -54,10 +52,6 @@ sites:
     url: https://dcafs.on.ca
   - name: Desert Stream
     url: https://desertstream.net
-  - name: Durham CAF
-    url: https://durhamcaf.ca
-  - name: Durham CAS
-    url: https://durhamcas.ca
   - name: EECC
     url: https://eastelgincommunitycomplex.ca
   - name: Elevate Plus
@@ -84,7 +78,7 @@ sites:
     url: https://giladparking.com
   - name: Gillanders
     url: https://gillanders.com
-  - name: Gloabal Med Inc
+  - name: Global Med Inc
     url: https://globalmedinc.com
   - name: Hastings County
     url: https://hastingscounty.com
@@ -116,8 +110,6 @@ sites:
     url: https://myhospice.ca
   - name: Angus Newsroom
     url: https://newsroom.angus-systems.com
-  - name: ONF
-    url: https://onf.org
   - name: Ontario Campaign 2000
     url: https://ontariocampaign2000.ca
   - name: Orillia Power Generation
@@ -162,8 +154,6 @@ sites:
     url: https://thespah.ca
   - name: Upper Canada Stone
     url: https://uppercanadastone.com
-  - name: Van Huizen Homes
-    url: https://vanhuizenhomes.com
   - name: Vanier
     url: https://vanier.com
   - name: Wasaga Distribution
