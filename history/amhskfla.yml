@@ -1,7 +1,7 @@
 url: https://amhs-kfla.ca
-status: up
-code: 200
-responseTime: 1473
-lastUpdated: 2021-11-19T23:14:51.663Z
+status: down
+code: 500
+responseTime: 1021
+lastUpdated: 2021-11-20T06:27:18.241Z
 startTime: Wed Jul 07 2021 14:01:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
